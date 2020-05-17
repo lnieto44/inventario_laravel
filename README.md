@@ -30,3 +30,5 @@ Para hacer esto, abra el archivo C: \ windows \ system32 \ drivers \ etc \ hosts
 127.0.0.1 inventario_laravel.com
 
 listo ahora escriba en su navegador favorito inventario_laravel.com y teniendo corriendo el  panel de control de xampp le funcionara
+
+Nota la base de datos se encuentra en la carpera database
